@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+$$ 2^2+7_2=10$$
+## hijwjflajflkd ##
 - Bulleted
 - List
 
