@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## 个人简历
+### 联系方式
+-手机号：12345678
+-email ；333999@qq.com
+### 个人信息
+- 姓名-性别-出生年月-
+ ## 工作经历 
+ ###公司名称（####什么年份开始至今）
+ ##职责详述
+ ## 年龄
+ ## 项目经历
+ ##家庭状况
+ ###身体健康
+ 
 
 You can use the [editor on GitHub](https://github.com/xiaoizhang/test.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
